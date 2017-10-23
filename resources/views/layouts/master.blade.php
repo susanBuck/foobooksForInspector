@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>
-        @yield('title', 'Foobooks')
-    </title>
+    <title>@yield('title', 'Foobooks')</title>
 
     <meta charset='utf-8'>
 
