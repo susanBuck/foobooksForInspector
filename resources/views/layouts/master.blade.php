@@ -15,10 +15,7 @@
 <body>
 
     <header>
-        <a href='/'><img
-            src='/images/laravel-foobooks-logo@2x.png'
-            style='width:300px'
-            alt='Foobooks Logo'></a>
+        <a href='/'><img src='/images/laravel-foobooks-logo@2x.png' style='width:300px' alt='Foobooks Logo'></a>
 
         {{-- ToDo: Make it so active link in nav is highlighted --}}
         <nav>
