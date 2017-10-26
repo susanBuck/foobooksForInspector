@@ -7,6 +7,7 @@
 
 
 @section('content')
+<h1><h2>Lorem ipsum dolor sit amet</h2></h1>
     <h1>Can you guess this book?</h1>
 
     <p>{{ $clue }}</p>
