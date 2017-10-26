@@ -7,7 +7,7 @@
 
 
 @section('content')
-<h1><h2>Lorem ipsum dolor sit amet</h2></h1>
+<div><section>Lorem ipsum dolor sit amet</section></div>
     <h1>Can you guess this book?</h1>
 
     <p>{{ $clue }}</p>
